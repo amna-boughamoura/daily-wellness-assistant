@@ -1,12 +1,8 @@
-# UI / UX Design
+---
 
-This folder contains visual design concepts for the Daily Wellness Assistant interface.
+## 🎨 UI Design Preview
 
-The design focuses on:
-- Clarity and simplicity
-- Real-time emotional feedback
-- Positive support for user focus and wellbeing
+Here is the planned user interface concept for the Daily Wellness Assistant:
 
-Screenshots and mockups will be displayed below.
+<img src="design/FIG%20DESIGN%20WEBSITE.png" alt="UI Design" width="700px">
 
-(To be added...)
